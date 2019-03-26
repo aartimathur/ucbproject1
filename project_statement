@@ -1,0 +1,18 @@
+Questions/Hypothesis :
+
+    1. Did the number of incidents of car break-ins go up, when it was reclassified as a misdemeanor from a felony?
+    2. Were these incidents predominant in any particular neighborhood and what was the economic profile of the neighborhood ?
+    3. Are the trends in SF in line with the general trends in other cities ?
+    
+
+Source Datasets:
+
+Data.sfgov.org -
+        a. Police Incident report 2003 to 2018
+            i.  https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
+        b. Map of Incident reports
+            i. https://data.sfgov.org/Public-Safety/Map-of-Police-Department-Incident-Reports-2018-to-/jq29-s5wp
+        c. Neighborhood economic data - socio economic profiles
+            i. https://data.sfgov.org/Geographic-Locations-and-Boundaries/Analysis-Neighborhoods/p5b7-5n3h
+        d. Compare trend with similar data from San Jose, Oakland and Sacramento
+            i. TBD
