@@ -1,8 +1,14 @@
+Project Statement
+
 Questions/Hypothesis :
 
-    1. Did the number of incidents of car break-ins go up, when it was reclassified as a misdemeanor from a felony?
-    2. Were these incidents predominant in any particular neighborhood and what was the economic profile of the neighborhood ?
-    3. Are the trends in SF in line with the general trends in other cities ?
+    1. Did the number of incidents of 'petty theft or grand theft' change, when in 2010 Penal Code § 487 was amended to increase the amount of property fitting the definition of petty theft.  The amount of property increased from $400 to $950.  Any theft valued at $950 or below is consequently now petty theft; any theft of property with value above $950 is grand theft.
+    
+    2. Are incidents of petty theft predominant in any particular neighborhood and did the trend change due to the amendment consistently across all?
+
+    3. What is the economic profile of the neighborhood with the highest number of incidents.
+
+    4. Are the trends in SF in line with the general trends in other cities ? ( Stretch goal. Maybe compared to Sacramento)
     
 
 Source Datasets:
